@@ -1,5 +1,5 @@
 # MATLAB_SDOF_FrequencyResponse
-# Solves and plots two different types of springs' frequency responses.
+## Solves and plots two different types of springs' frequency responses.
 
 ## Overview
 This project uses an MATLAB to solve and plot the frequency responses of a standard spring and an electromagnetic "spring".
